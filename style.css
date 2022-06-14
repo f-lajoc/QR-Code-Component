@@ -11,7 +11,7 @@ font-family: outfit,arial,verdana; /*fall back fonts*/
   margin:5rem 2rem;
   padding:1rem 1rem;
 }
-/*img style for maindiv*/
+/*img style for main*/
 img{
 width: 15rem;
 border-radius: 10px;
@@ -37,6 +37,7 @@ display: block;
  margin-right: auto;
  margin-left: auto;
  width: 20rem;
+padding: 0px 10px;
  font-weight:700;
 }  
 }
