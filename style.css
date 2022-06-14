@@ -2,7 +2,7 @@ body{
 background-color: hsl(212, 45%, 89%);
 font-family: outfit,arial,verdana; /*fall back fonts*/
 }
-.maindiv{
+.main{
  border: 1px solid white;
   border-radius:20px;
   background-color: hsl(0, 0%, 100%);
@@ -31,9 +31,9 @@ p{
 
 /*display on screen higher than 600px*/
 @media screen and (min-width:600px){
-.maindiv{
+.main{
 display: block;
- margin-top: 10rem;
+ margin-top: 5rem;
  margin-right: auto;
  margin-left: auto;
  width:15rem;
