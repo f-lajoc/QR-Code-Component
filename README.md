@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <img src="images/screenshot.png" width="200">
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/f-lajoc/QR-Code-Component](https://github.com/f-lajoc/QR-Code-Component)
 - Live Site URL: [https://f-lajoc.github.io/QR-Code-Component/](https://f-lajoc.github.io/QR-Code-Component/)
 
 ## My process
